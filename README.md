@@ -145,10 +145,10 @@ The main scene is `Assets/Scenes/SampleScene.unity`.
 
 ## 👤 Author
 
-**Sonet** — B.E. Information Technology, SFIT Mumbai
+**Jolls Dmello** — B.E. Information Technology, SFIT Mumbai
 
 ---
 
 ## 📄 License
 
-_Add a license (e.g. MIT) or state "For educational use only"._
+Released under the MIT License. Copyright (c) 2026 Jolls Dmello.
