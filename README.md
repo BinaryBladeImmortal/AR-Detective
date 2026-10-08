@@ -98,7 +98,7 @@ The main scene is `Assets/Scenes/SampleScene.unity`.
 1. Install **Unity Hub** and **Unity 6.1.14f1** with the **Android Build Support** module.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/AR-Detective.git
+   git clone https://github.com/BinaryBladeImmortal/AR-Detective.git
    ```
 3. In Unity Hub, click **Add → Add project from disk** and select the **`Source Code`** folder.
 4. Open `Assets/Scenes/SampleScene.unity`.
