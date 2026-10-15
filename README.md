@@ -11,7 +11,7 @@ A mobile **augmented reality detective game** built in Unity. Scan your real sur
 You don't need Unity to play. Just install the APK on your phone.
 
 1. Open the **[`Releases`](Releases/)** folder in this repository.
-2. Download **[`AR-Detective.apk`](Releases/AR-Detective.apk)** (click the file, then the **Download** / **⬇** button).
+2. Download **[`ARDetective82.apk`](Releases/ARDetective82.apk)** (click the file, then the **Download** / **⬇** button).
 3. Copy it to your Android phone (or download it directly on the phone).
 4. Tap the APK to install. If asked, allow **"Install from unknown sources"** for your browser or file manager.
 5. Open **AR Detective** and allow **Camera** permission.
